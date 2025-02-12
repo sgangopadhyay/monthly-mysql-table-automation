@@ -80,6 +80,7 @@ The database connection parameters are configured within the main script.  Make 
 
 ```python
 db_manager = DatabaseManager(host="localhost", user="root", password="suman", database="office")
+```
 
 ## License
 
