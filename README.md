@@ -1,4 +1,4 @@
-# Dynamic MySQL Table Creation with Python
+# Python script for dynamically creating MySQL tables based on year and month
 
 This repository demonstrates Python script for dynamically creating MySQL tables based on year and month.  Uses object-oriented programming for maintainability and includes robust connection management and error handling.
 
